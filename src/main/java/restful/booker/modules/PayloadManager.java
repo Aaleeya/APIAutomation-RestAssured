@@ -1,2 +1,5 @@
-package restful.booker.modules;public class PayloadManager {
+package restful.booker.modules;
+
+public class PayloadManager {
+
 }
